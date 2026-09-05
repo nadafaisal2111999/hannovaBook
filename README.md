@@ -20,28 +20,28 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/2ccc7657-b8b6-4b13-ba19-762c1145a540" width="220"/><br/><b>شاشة البداية / الترحيب</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/5327e1d1-8d2a-4544-9114-5dc39554fd39" width="220"/><br/><b>قائمة الكتب الرئيسية</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/d0ebec7f-74d7-4e61-bf2f-566edb884d5a" width="220"/><br/><b>تفاصيل الكتاب</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/2ccc7657-b8b6-4b13-ba19-762c1145a540" width="220"/><br/><b></b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/5327e1d1-8d2a-4544-9114-5dc39554fd39" width="220"/><br/><b></b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/d0ebec7f-74d7-4e61-bf2f-566edb884d5a" width="220"/><br/><b></b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/ee5e957a-429d-4f39-8dd4-f0a0d8cd78dc" width="220"/><br/><b>واجهة القراءة الداخلية</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/191a0cef-710f-4929-9d0f-f9ace6437eda" width="220"/><br/><b>تخصيص خطوط وعرض النص</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/a6a75aab-a4c7-44ff-b6b3-6439c6c9b1a6" width="220"/><br/><b>قائمة الفصول والمحتويات</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/ee5e957a-429d-4f39-8dd4-f0a0d8cd78dc" width="220"/><br/><b></b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/191a0cef-710f-4929-9d0f-f9ace6437eda" width="220"/><br/><b></b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/a6a75aab-a4c7-44ff-b6b3-6439c6c9b1a6" width="220"/><br/><b></b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/d7ce2d72-47c4-4122-bc79-696b389e3562" width="220"/><br/><b>العلامات المرجعية (Bookmarks)</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/24aa58b8-c28f-43bd-a72e-ec2f98e66b82" width="220"/><br/><b>الوضع الداكن (Dark Mode)</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/14b48acf-6e8e-4eb8-ad8e-d604967896b0" width="220"/><br/><b>تظليل النصوص والملاحظات</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/d7ce2d72-47c4-4122-bc79-696b389e3562" width="220"/><br/><b> (Bookmarks)</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/24aa58b8-c28f-43bd-a72e-ec2f98e66b82" width="220"/><br/><b>ا(Dark Mode)</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/14b48acf-6e8e-4eb8-ad8e-d604967896b0" width="220"/><br/><b> </b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/812bf081-c23b-432f-b7eb-719e3af73adc" width="220"/><br/><b>نافذة الترجمة الفورية</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/893da0da-2c5a-4ff3-aed4-44a35c2757d1" width="220"/><br/><b>إعدادات التطبيق</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/29eb521b-12a7-4b17-a301-3107361d80eb" width="220"/><br/><b>البحث داخل الكتاب</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/812bf081-c23b-432f-b7eb-719e3af73adc" width="220"/><br/><b></b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/893da0da-2c5a-4ff3-aed4-44a35c2757d1" width="220"/><br/><b></b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/29eb521b-12a7-4b17-a301-3107361d80eb" width="220"/><br/><b></b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/9aa6f5ee-8e4e-429d-9fe5-5c17ad1720b9" width="220"/><br/><b>شاشة الإحصائيات والقراءة</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/5706d4ea-8aaa-4c62-82e9-4e0a5ad27041" width="220"/><br/><b>إدارة المكتبة الشخصية</b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/9aa6f5ee-8e4e-429d-9fe5-5c17ad1720b9" width="220"/><br/><b></b></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/5706d4ea-8aaa-4c62-82e9-4e0a5ad27041" width="220"/><br/><b></b></td>
     <td align="center"></td>
   </tr>
 </table>
